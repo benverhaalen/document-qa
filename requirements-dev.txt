@@ -1,0 +1,5 @@
+-r requirements.txt  # This includes all production deps
+pytest==7.4.4
+black==23.12.1
+ipykernel==6.28.0
+python-dotenv==1.0.0
